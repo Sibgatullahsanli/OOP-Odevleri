@@ -1,0 +1,1 @@
+[OPP Odev: Üniversite Yönetim Sistemi](/images/university_uml.png)
