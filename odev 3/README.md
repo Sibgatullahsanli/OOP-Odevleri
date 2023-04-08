@@ -1,3 +1,10 @@
+[PATİKA](https://app.patika.dev/) dev in Php dersleri çerçevesinde çelıştığımız OPP için verilen 3.cü ödevimiz.
+
+[Patika Profilim](https://app.patika.dev/sibgat)
+
+[GitHub Profilim](https://github.com/Sibgatullahsanli)
+
+
 Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 - Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
