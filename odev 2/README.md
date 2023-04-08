@@ -13,4 +13,4 @@ Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı ola
 
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
-[OPP Odev: Üniversite Yönetim Sistemi](/images/university_uml.png)
+[OPP Odev: Üniversite Yönetim Sistemi](/images/zoo_uml%20(1).png)
